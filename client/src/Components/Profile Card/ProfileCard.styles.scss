@@ -1,0 +1,20 @@
+.ProfileCard{
+    width: 220px;
+    height: 300px;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: white;
+    h3{
+        margin: 10px 0;
+    }
+    img{
+        width: 100%;
+        height: 150px;
+    }
+    p{
+        margin: 0;
+        margin-top: 5px;
+        font-size: 14px;
+        color: #16ae7d;
+    }
+}
